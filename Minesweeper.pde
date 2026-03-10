@@ -192,7 +192,7 @@ public class MSButton
     public void setLabel(String newLabel)
     {
         myLabel = newLabel;
-        if(myLabel.equals("X") textSize(50);
+        if(myLabel.equals("X")) textSize(50);
     }
     public void setLabel(int newLabel)
     {
